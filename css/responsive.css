@@ -1,0 +1,78 @@
+
+@media (min-width: 320px) and (max-width: 575px){
+    #header {
+        height: 640px;
+    }
+    .nav-item {
+        padding: 20px 10px 15px;
+    }
+    .banner-content h2 {
+        margin-top: 100px;
+        font-size: 34px;
+    }
+    .banner-content h5 {
+        font-size: 15px;
+        padding: 0 15px;
+    }
+
+    /* service part */
+    .service-info {
+        margin-bottom: 90px;
+    }
+
+    .work-img {
+        margin-bottom: 20px;
+    }
+
+    .work-overlay h4 {
+        margin-top: 130px;
+    }
+    .team-info {
+        margin-top: 35px;
+    }
+
+    .client-info {
+        padding: 50px 0;
+    }
+
+    .client-info h2 {
+        font-size: 26px;
+        padding: 0 22px 0 40px;
+    }
+
+    .client-info h6 {
+        font-size: 12px;
+        padding-left: 40px;
+    }
+
+    .footer-info {
+        padding: 70px 0 7px;
+    }
+
+    .footer-icon ul {
+        margin-left: 100px;
+    }
+
+    .footer-info .last {
+        padding: 0 30px 35px;
+    }
+
+    .copyright-info p {
+        font-size: 12px;
+    }
+    .copyright {
+        padding: 15px 0;
+    }
+}
+
+/* // Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... } */
